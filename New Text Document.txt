@@ -1,0 +1,20 @@
+-sau b?n luu l?i cái này nhé
+mình s? dùng git d? qu?n lý
+mình d?y b?n 1 công c? dó là github. (có r?t nhi?u cái khác nhé)
+Cài git cho máy: github.com
+note: d? làm android thì b?n nên nâng c?p ? c?ng sang SSD
+Sau khi cài xong git cho máy
+L?p m?t tài kho?n git d? s? d?ng (trang mình dùng là github.com)
+l?p xong =>
+git config --global user.name "PhamVanDuong"
+git config --global user.email phamvanduong.b93.k52@gmail.com
+note: pass phamvanduong.b93.k52@gmail.com
+xong ph?n git , nhuung b?n mu?n dùng ok thì ph?i rest?t máy
+ gi? mình d?y soucre lên git, d? d?ng b? v?i nhau
+t?o pr?ect trên git
+xác nh?n email di b?n , nh?p pass di b?n, làm nhanh di
+go_to_love_123
+create1project
+ t?t nh?t b?n c?u nh?p pass vào dây. mình làm cho 
+
+
